@@ -2,6 +2,6 @@
 
 Programming Courses In Progress:
 
-<<ul>
+<ul>
     <li>JavaScript 30 by Web Bos https://javascript30.com/ </li>
 </ul>
