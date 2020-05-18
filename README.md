@@ -3,5 +3,5 @@
 Programming Courses In Progress:
 
 <ul>
-    <li>JavaScript 30 by Web Bos https://javascript30.com/ </li>
+    <li>React for Beginners by Wes Bos - https://reactforbeginners.com/</li>
 </ul>
